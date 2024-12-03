@@ -1,3 +1,5 @@
+Telegram bot interface with a React-based frontend application, creating an integrated system for user interactions. The project uses modern web technologies and Telegram's Bot API to deliver services through both traditional bot commands and a web-based interface.
+
 # ✨[contact me here](https://t.me/blockchainDeveloper_Ben)👈
 # BuffyDrop 🎮
 
